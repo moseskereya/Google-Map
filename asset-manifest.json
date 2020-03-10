@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Google-Map/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Google-Map/static/js/main.2e1ddb72.chunk.js",
+    "main.js.map": "/Google-Map/static/js/main.2e1ddb72.chunk.js.map",
+    "runtime-main.js": "/Google-Map/static/js/runtime-main.5e4c0bf7.js",
+    "runtime-main.js.map": "/Google-Map/static/js/runtime-main.5e4c0bf7.js.map",
+    "static/js/2.49fae2ea.chunk.js": "/Google-Map/static/js/2.49fae2ea.chunk.js",
+    "static/js/2.49fae2ea.chunk.js.map": "/Google-Map/static/js/2.49fae2ea.chunk.js.map",
+    "index.html": "/Google-Map/index.html",
+    "precache-manifest.9c515d85d66ce50b656e468057dd0fbc.js": "/Google-Map/precache-manifest.9c515d85d66ce50b656e468057dd0fbc.js",
+    "service-worker.js": "/Google-Map/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Google-Map/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.49fae2ea.chunk.js.LICENSE.txt": "/Google-Map/static/js/2.49fae2ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e4c0bf7.js",
+    "static/js/2.49fae2ea.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2e1ddb72.chunk.js"
+  ]
+}
